@@ -32,17 +32,18 @@ Requirements
 
 6. Pycaw (pycaw) for audio control
 
-Installation
+
+Installation:
 
 Run the following command to install dependencies:
 
 --> pip install opencv-python mediapipe pyautogui numpy pycaw comtypes
 
-Usage
 
 Run the script:
 
 --> python hand_tracking_mouse.py
+
 
 Controls:
 
@@ -54,7 +55,8 @@ Tap the left-hand thumb and middle finger to right-click.
 
 Use the right-hand index finger and thumb to control the volume.
 
-Troubleshooting
+
+Troubleshooting:
 
 If the camera freezes, ensure your webcam is working properly and restart the script.
 
@@ -62,11 +64,13 @@ If volume control is not smooth, adjust the smoothing factor in the code.
 
 Ensure proper lighting for accurate hand detection.
 
-License
+
+License:
 
 This project is open-source and can be modified or distributed freely.
 
-Author
+
+Author:
 
 Developed by SUYASH YOGI  
 
